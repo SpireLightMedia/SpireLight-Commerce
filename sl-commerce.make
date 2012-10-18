@@ -197,9 +197,6 @@ projects[redirect][version] = "1.0-beta4"
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.2"
 
-projects[search404][subdir] = "contrib"
-projects[search404][version] = "1.1"
-
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.1"
 
