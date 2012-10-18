@@ -170,6 +170,9 @@ projects[metatag][version] = "1.0-alpha8"
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
 
+projects[nocurrent_pass][subdir] = "contrib"
+projects[nocurrent_pass][version] = "1.0"
+
 projects[omega_tools][subdir] = contrib
 projects[omega_tools][version] = "3.0-rc4"
 
