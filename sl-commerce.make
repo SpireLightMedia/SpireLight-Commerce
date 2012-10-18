@@ -156,7 +156,7 @@ projects[metatag][subdir] = contrib
 projects[metatag][version] = "1.0-alpha5"
 
 projects[media][subdir] = contrib
-projects[media][version] = "1.0"
+projects[media][version] = "1.2"
 
 projects[omega_tools][subdir] = contrib
 projects[omega_tools][version] = "3.0-rc4"
