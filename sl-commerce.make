@@ -197,6 +197,15 @@ projects[redirect][version] = "1.0-beta4"
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.2"
 
+projects[smartcrop][subdir] = "contrib"
+projects[smartcrop][version] = "1.0-beta2"
+
+projects[stringoverrides][subdir] = "contrib"
+projects[stringoverrides][version] = "1.8"
+
+projects[tabtamer][subdir] = "contrib"
+projects[tabtamer][version] = "1.1"
+
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.1"
 
