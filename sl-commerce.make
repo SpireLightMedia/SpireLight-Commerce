@@ -146,6 +146,9 @@ projects[imagefield_focus][version] = "1.0"
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.5"
 
+projects[inline_entity_form][subdir] = "contrib"
+projects[inline_entity_form][version] = "1.0-beta4"
+
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "1.0"
 
