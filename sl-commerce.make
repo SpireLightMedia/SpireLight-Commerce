@@ -117,7 +117,7 @@ projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.12"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "1.0-rc2"
+projects[features][version] = "1.0"
 
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "1.1"
