@@ -122,6 +122,12 @@ projects[features][version] = "1.0"
 projects[field_group][subdir] = "contrib"
 projects[field_group][version] = "1.1"
 
+projects[field_permissions][subdir] = "contrib"
+projects[field_permissions][version] = "1.0-beta2"
+
+projects[field_slideshow][subdir] = "contrib"
+projects[field_slideshow][version] = "1.6"
+
 projects[fontyourface][subdir] = "contrib"
 projects[fontyourface][version] = "2.2"
 
