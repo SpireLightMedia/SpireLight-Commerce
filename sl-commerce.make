@@ -180,7 +180,7 @@ projects[page_title][type] = "module"
 projects[page_title][version] = "2.5"
 
 projects[pathauto][subdir] = "contrib"
-projects[pathauto][version] = "1.0"
+projects[pathauto][version] = "1.2"
 
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-beta4"
