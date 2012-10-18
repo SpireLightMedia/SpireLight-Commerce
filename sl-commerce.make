@@ -36,7 +36,52 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
 projects[commerce][subdir] = contrib
-projects[commerce][version] = "1.2"
+projects[commerce][version] = "1.3+32-dev"
+
+projects[commerce_addressbook][subdir] = "contrib"
+projects[commerce_addressbook][version] = "2.0-rc2"
+
+projects[commerce_checkout_login][subdir] = "contrib"
+projects[commerce_checkout_login][version] = "1.x-dev"
+
+projects[commerce_checkout_progress][subdir] = "contrib"
+projects[commerce_checkout_progress][version] = "1.2"
+
+projects[commerce_coupon][subdir] = "contrib"
+projects[commerce_coupon][version] = "1.0-beta6"
+
+projects[commerce_coupon_fixed_amount][subdir] = "contrib"
+projects[commerce_coupon_fixed_amount][version] = "1.x-dev"
+
+projects[commerce_coupon_pct][subdir] = "contrib"
+projects[commerce_coupon_pct][version] = "1.x-dev"
+
+projects[commerce_email][subdir] = "contrib"
+projects[commerce_email][version] = "2.x-dev"
+
+projects[commerce_fieldgroup_panes][subdir] = "contrib"
+projects[commerce_fieldgroup_panes][version] = "1.0-rc2"
+
+projects[commerce_flat_rate][subdir] = "contrib"
+projects[commerce_flat_rate][version] = "1.0-beta1"
+
+projects[commerce_google_analytics][subdir] = "contrib"
+projects[commerce_google_analytics][version] = "1.0-rc2"
+
+projects[commerce_invoice][subdir] = "contrib"
+projects[commerce_invoice][version] = "1.0-alpha3+5-dev"
+
+projects[commerce_paypal][subdir] = "contrib"
+projects[commerce_paypal][version] = "1.0-rc1"
+
+projects[commerce_shipping][subdir] = "contrib"
+projects[commerce_shipping][version] = "2.0-beta1+13-dev"
+
+projects[commerce_stock][subdir] = "contrib"
+projects[commerce_stock][version] = "2.0-alpha2"
+
+projects[commerce_vbo_views][subdir] = "contrib"
+projects[commerce_vbo_views][version] = "1.2"
 
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.2"
