@@ -215,6 +215,12 @@ projects[site_verify][version] = "1.0"
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.2"
 
+projects[variable][subdir] = "contrib"
+projects[variable][version] = "1.2"
+
+projects[variable_email][subdir] = "contrib"
+projects[variable_email][version] = "1.0-alpha1"
+
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.3"
 
