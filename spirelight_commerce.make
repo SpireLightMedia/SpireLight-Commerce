@@ -176,7 +176,7 @@ projects[nocurrent_pass][version] = "1.0"
 projects[omega_tools][subdir] = contrib
 projects[omega_tools][version] = "3.0-rc4"
 
-projects[page_title][type] = "module"
+projects[page_title][subdir] = "contrib"
 projects[page_title][version] = "2.5"
 
 projects[pathauto][subdir] = "contrib"
