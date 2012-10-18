@@ -239,21 +239,32 @@ projects[xmlsitemap][version] = "2.0-rc1"
 projects[wysiwyg_filter][subdir] = "contrib"
 projects[wysiwyg_filter][version] = "1.6-rc2"
 
+
 ; Themes
 ; --------
+
 projects[omega][version] = 3.1
  
   
 ; Libraries
 ; ---------
-libraries[ckeditor][type] = "libraries"
-libraries[ckeditor][download][type] = "file"
+
+libraries[ckeditor][download][type] = "libraries"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.2/ckeditor_3.6.2.tar.gz"
+libraries[ckeditor][directory_name] = "ckeditor"
+libraries[ckeditor][type] = "libraries"
 
-libraries[jquery.cycle][type] = "libraries"
-libraries[jquery.cycle][download][type] = "file"
-libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
-
-libraries[colorbox][type] = "libraries"
-libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][type] = "libraries"
 libraries[colorbox][download][url] = "http://jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][type] = "libraries"
+
+libraries[jquery.cycle][download][type] = "libraries"
+libraries[jquery.cycle][download][url] = "http://malsup.github.com/jquery.cycle.all.js"
+libraries[jquery.cycle][directory_name] = "jquery.cycle"
+libraries[jquery.cycle][type] = "libraries"
+
+libraries[uniform][download][type] = "libraries"
+libraries[uniform][download][url] = ""
+libraries[uniform][directory_name] = "uniform"
+libraries[uniform][type] = "library"
