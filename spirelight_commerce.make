@@ -36,7 +36,7 @@ projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
 projects[commerce][subdir] = contrib
-projects[commerce][version] = "1.3+32-dev"
+projects[commerce][version] = "1.x-dev"
 
 projects[commerce_addressbook][subdir] = "contrib"
 projects[commerce_addressbook][version] = "2.0-rc2"
@@ -69,13 +69,13 @@ projects[commerce_google_analytics][subdir] = "contrib"
 projects[commerce_google_analytics][version] = "1.0-rc2"
 
 projects[commerce_invoice][subdir] = "contrib"
-projects[commerce_invoice][version] = "1.0-alpha3+5-dev"
+projects[commerce_invoice][version] = "1.x-dev"
 
 projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
 
 projects[commerce_shipping][subdir] = "contrib"
-projects[commerce_shipping][version] = "2.0-beta1+13-dev"
+projects[commerce_shipping][version] = "2.x-dev"
 
 projects[commerce_stock][subdir] = "contrib"
 projects[commerce_stock][version] = "2.0-alpha2"
