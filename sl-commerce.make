@@ -137,6 +137,12 @@ projects[globalredirect][version] = "1.5"
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = "1.2"
 
+projects[htmlmail][subdir] = "contrib"
+projects[htmlmail][version] = "2.65"
+
+projects[imagefield_focus][subdir] = "contrib"
+projects[imagefield_focus][version] = "1.0"
+
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.5"
 
