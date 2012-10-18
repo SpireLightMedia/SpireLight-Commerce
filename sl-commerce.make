@@ -39,7 +39,7 @@ projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.2"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.0"
+projects[ctools][version] = "1.2"
 
 projects[ds][subdir] = "contrib"
 projects[ds][version] = "1.5"
