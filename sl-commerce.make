@@ -213,7 +213,7 @@ projects[site_verify][subdir] = "contrib"
 projects[site_verify][version] = "1.0"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.0-rc1"
+projects[token][version] = "1.2"
 
 projects[views][subdir] = "contrib"
 projects[views][version] = "3.3"
