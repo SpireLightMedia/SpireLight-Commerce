@@ -86,6 +86,21 @@ projects[commerce_vbo_views][version] = "1.2"
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.2"
 
+projects[date][subdir] = "contrib"
+projects[date][version] = "2.6"
+
+projects[delta][subdir] = "contrib"
+projects[delta][version] = "3.0-beta11"
+
+projects[disablepwstrength][subdir] = "contrib"
+projects[disablepwstrength][version] = "1.1"
+
+projects[draggableviews][subdir] = "contrib"
+projects[draggableviews][version] = "2.0"
+
+projects[echo][subdir] = "contrib"
+projects[echo][version] = "1.9"
+
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.0-rc2"
 
