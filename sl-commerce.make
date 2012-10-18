@@ -159,7 +159,7 @@ projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "2.4"
+projects[mailchimp][version] = "2.6"
 
 projects[metatag][subdir] = contrib
 projects[metatag][version] = "1.0-alpha5"
