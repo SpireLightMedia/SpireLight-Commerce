@@ -86,9 +86,6 @@ projects[commerce_vbo_views][version] = "1.2"
 projects[ctools][subdir] = "contrib"
 projects[ctools][version] = "1.2"
 
-projects[ds][subdir] = "contrib"
-projects[ds][version] = "1.5"
-
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.0-rc2"
 
