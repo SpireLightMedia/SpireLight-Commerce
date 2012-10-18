@@ -268,3 +268,8 @@ libraries[uniform][download][type] = "git"
 libraries[uniform][download][url] = "https://github.com/pixelmatrix/uniform.git"
 libraries[uniform][directory_name] = "uniform"
 libraries[uniform][type] = "libraries"
+
+libraries[profiler][download][type] = "get"
+libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
+libraries[profiler][directory_name] = "profiler"
+libraries[profiler][type] = "libraries"
