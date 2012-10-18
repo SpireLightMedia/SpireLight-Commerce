@@ -102,7 +102,7 @@ projects[echo][subdir] = "contrib"
 projects[echo][version] = "1.9"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.0-rc2"
+projects[entity][version] = "1.0-rc3"
 
 projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.12"
