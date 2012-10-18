@@ -29,6 +29,9 @@ projects[addressfield][version] = "1.0-beta3"
 projects[advanced_help][subdir] = "contrib"
 projects[advanced_help][version] = "1.0"
 
+projects[better_formats][subdir] = "contrib"
+projects[better_formats][version] = "1.0-beta1"
+
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
