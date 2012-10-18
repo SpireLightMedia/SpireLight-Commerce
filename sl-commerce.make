@@ -182,6 +182,15 @@ projects[page_title][version] = "2.5"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
+projects[privatemsg][subdir] = "contrib"
+projects[privatemsg][version] = "1.3"
+
+projects[quicktabs][subdir] = "contrib"
+projects[quicktabs][version] = "3.4"
+
+projects[realname][subdir] = "contrib"
+projects[realname][version] = "1.0"
+
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-beta4"
 
