@@ -129,10 +129,10 @@ projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.6"
 
 projects[fontyourface][subdir] = "contrib"
-projects[fontyourface][version] = "2.2"
+projects[fontyourface][version] = "2.4"
 
 projects[globalredirect][subdir] = "contrib"
-projects[globalredirect][version] = "1.4"
+projects[globalredirect][version] = "1.5"
 
 projects[google_analytics][subdir] = contrib
 projects[google_analytics][version] = "1.2"
