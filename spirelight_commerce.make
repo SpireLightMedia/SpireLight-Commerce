@@ -80,6 +80,12 @@ projects[commerce_netbanx][version] = "1.x-dev"
 projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
 
+projects[commerce_product_attributes][subdir] = "contrib"
+projects[commerce_product_attributes][version] = "1.0-beta3"
+
+projects[commerce_product_bundle][subdir] = "contrib"
+projects[commerce_product_bundle][version] = "1.0-alpha6"
+
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
 
@@ -151,6 +157,9 @@ projects[imagefield_focus][version] = "1.0"
 
 projects[imce][subdir] = "contrib"
 projects[imce][version] = "1.5"
+
+projects[imce_wysiwyg][subdir] = "contrib"
+projects[imce_wysiwyg][version] = "1.0"
 
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.0-beta4"
