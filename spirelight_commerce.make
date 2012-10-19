@@ -230,6 +230,9 @@ projects[service_links][version] = "2.1"
 projects[site_verify][subdir] = "contrib"
 projects[site_verify][version] = "1.0"
 
+projects[tabtamer][subdir] = "contrib"
+projects[tabtamer][version] = "1.1"
+
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.2"
 
@@ -251,11 +254,11 @@ projects[views_slideshow][version] = "3.0"
 projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.18"
 
-projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.0-rc1"
-
 projects[wysiwyg_filter][subdir] = "contrib"
 projects[wysiwyg_filter][version] = "1.6-rc2"
+
+projects[xmlsitemap][subdir] = "contrib"
+projects[xmlsitemap][version] = "2.0-rc1"
 
 
 ; Themes
@@ -270,24 +273,29 @@ projects[omega][version] = 3.1
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.5/ckeditor_3.6.5.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
-libraries[ckeditor][type] = "libraries"
+libraries[ckeditor][type] = "library"
 
 libraries[colorbox][download][type] = "git"
 libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "libraries"
+libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
-libraries[jquery.cycle][type] = "libraries"
+libraries[jquery.cycle][type] = "library"
+
+libraries[jquery.jcarousel][download][type] = "git"
+libraries[jquery.jcarousel][download][url] = "https://github.com/jsor/jcarousel.git"
+libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
+libraries[jquery.jcarousel][type] = "library"
 
 libraries[uniform][download][type] = "git"
 libraries[uniform][download][url] = "https://github.com/pixelmatrix/uniform.git"
 libraries[uniform][directory_name] = "uniform"
-libraries[uniform][type] = "libraries"
+libraries[uniform][type] = "library"
 
 libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
 libraries[profiler][directory_name] = "profiler"
-libraries[profiler][type] = "libraries"
+libraries[profiler][type] = "library"
