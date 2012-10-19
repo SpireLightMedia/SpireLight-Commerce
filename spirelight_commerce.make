@@ -35,6 +35,9 @@ projects[better_formats][version] = "1.0-beta1"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = "1.4"
+
 projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.x-dev"
 
