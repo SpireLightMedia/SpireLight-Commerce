@@ -239,6 +239,9 @@ projects[tabtamer][version] = "1.1"
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.3"
 
+projects[uniform][subdir] = "contrib"
+projects[uniform][version] = "1.10"
+
 projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.1"
 
