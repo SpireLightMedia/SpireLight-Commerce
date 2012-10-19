@@ -234,10 +234,10 @@ projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.2"
+projects[token][version] = "1.3"
 
 projects[variable][subdir] = "contrib"
-projects[variable][version] = "1.2"
+projects[variable][version] = "2.1"
 
 projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
