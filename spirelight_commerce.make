@@ -14,7 +14,7 @@ api = 2
 ; install profiles *should not* include a core project.
   
 ; Drupal 7.x. Requires the `core` property to be set to 7.x.
-projects[drupal][version] = 7
+projects[drupal][version] = 7.16
 
   
 ; Modules
@@ -66,7 +66,7 @@ projects[commerce_email][subdir] = "contrib"
 projects[commerce_email][version] = "2.x-dev"
 
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
-projects[commerce_fieldgroup_panes][version] = "1.0-rc2"
+projects[commerce_fieldgroup_panes][version] = "1.0"
 
 projects[commerce_flat_rate][subdir] = "contrib"
 projects[commerce_flat_rate][version] = "1.0-beta1"
@@ -93,7 +93,7 @@ projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
 
 projects[commerce_stock][subdir] = "contrib"
-projects[commerce_stock][version] = "2.0-alpha2"
+projects[commerce_stock][version] = "2.0-alpha3"
 
 projects[commerce_vbo_views][subdir] = "contrib"
 projects[commerce_vbo_views][version] = "1.2"
@@ -120,10 +120,10 @@ projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.0-rc3"
 
 projects[entityreference][subdir] = "contrib"
-projects[entityreference][version] = "1.0-rc3"
+projects[entityreference][version] = "1.0-rc5"
 
 projects[entityreference_prepopulate][subdir] = "contrib"
-projects[entityreference_prepopulate][version] = "1.0"
+projects[entityreference_prepopulate][version] = "1.1"
 
 projects[entityreference_view_widget][subdir] = "contrib"
 projects[entityreference_view_widget][version] = "1.0-alpha2"
@@ -141,10 +141,10 @@ projects[field_permissions][subdir] = "contrib"
 projects[field_permissions][version] = "1.0-beta2"
 
 projects[field_slideshow][subdir] = "contrib"
-projects[field_slideshow][version] = "1.6"
+projects[field_slideshow][version] = "1.7"
 
 projects[fontyourface][subdir] = "contrib"
-projects[fontyourface][version] = "2.4"
+projects[fontyourface][version] = "2.5"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
@@ -165,7 +165,7 @@ projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
 projects[inline_entity_form][subdir] = "contrib"
-projects[inline_entity_form][version] = "1.0-beta4"
+projects[inline_entity_form][version] = "1.0-rc1"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "1.0"
@@ -183,7 +183,7 @@ projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-alpha8"
+projects[metatag][version] = "1.0-beta1"
 
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
@@ -213,7 +213,7 @@ projects[realname][subdir] = "contrib"
 projects[realname][version] = "1.0"
 
 projects[redirect][subdir] = "contrib"
-projects[redirect][version] = "1.0-beta4"
+projects[redirect][version] = "1.0-rc1"
 
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.2"
@@ -237,7 +237,7 @@ projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.3"
+projects[token][version] = "1.4"
 
 projects[uniform][subdir] = "contrib"
 projects[uniform][version] = "1.10"
@@ -249,10 +249,10 @@ projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.3"
+projects[views][version] = "3.5"
 
 projects[views_bulk_operations][subdir] = "contrib"
-projects[views_bulk_operations][version] = "3.0-rc1"
+projects[views_bulk_operations][version] = "3.0"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.0"
