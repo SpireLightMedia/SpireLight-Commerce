@@ -281,8 +281,8 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
-libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
@@ -291,8 +291,8 @@ libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
-libraries[jquery.jcarousel][download][type] = "git"
-libraries[jquery.jcarousel][download][url] = "https://github.com/jsor/jcarousel.git"
+libraries[jquery.jcarousel][download][type] = "file"
+libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
 libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
 libraries[jquery.jcarousel][type] = "library"
 
@@ -305,3 +305,8 @@ libraries[profiler][download][type] = "get"
 libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
 libraries[profiler][directory_name] = "profiler"
 libraries[profiler][type] = "library"
+
+libraries[json2][download][type] = "get"
+libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
+libraries[json2][directory_name] = "json2"
+libraries[json2][type] = "library"
