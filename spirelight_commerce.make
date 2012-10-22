@@ -310,3 +310,8 @@ libraries[json2][download][type] = "get"
 libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
+
+libraries[jquery.imagesloaded][download][type] = "get"
+libraries[jquery.imagesloaded][download][url] = "git://github.com/desandro/imagesloaded.git"
+libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
+libraries[jquery.imagesloaded][type] = "library"
