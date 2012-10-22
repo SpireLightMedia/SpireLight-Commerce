@@ -168,7 +168,7 @@ projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.0-rc1"
 
 projects[libraries][subdir] = "contrib"
-projects[libraries][version] = "1.0"
+projects[libraries][version] = "2.0"
 
 projects[link][subdir] = "contrib"
 projects[link][version] = "1.0"
