@@ -39,7 +39,7 @@ projects[colorbox][subdir] = contrib
 projects[colorbox][version] = "1.4"
 
 projects[commerce][subdir] = contrib
-projects[commerce][version] = "1.x-dev"
+projects[commerce][version] = "1.4"
 
 projects[commerce_addressbook][subdir] = "contrib"
 projects[commerce_addressbook][version] = "2.0-rc2"
