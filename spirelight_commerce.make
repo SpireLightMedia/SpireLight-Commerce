@@ -24,9 +24,6 @@ projects[better_formats][version] = "1.0-beta1"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
 
-projects[colorbox][subdir] = contrib
-projects[colorbox][version] = "1.4"
-s
 projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.4"
 
@@ -38,9 +35,6 @@ projects[commerce_checkout_login][version] = "1.x-dev"
 
 projects[commerce_checkout_progress][subdir] = "contrib"
 projects[commerce_checkout_progress][version] = "1.2"
-
-projects[commerce_conditions][subdir] = "contrib"
-projects[commerce_conditions][version] = "1.x-dev"
 
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][version] = "1.0-beta6"
@@ -66,17 +60,8 @@ projects[commerce_google_analytics][version] = "1.0-rc2"
 projects[commerce_invoice][subdir] = "contrib"
 projects[commerce_invoice][version] = "1.x-dev"
 
-projects[commerce_netbanx][subdir] = "contrib"
-projects[commerce_netbanx][version] = "1.x-dev"
-
 projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
-
-projects[commerce_product_attributes][subdir] = "contrib"
-projects[commerce_product_attributes][version] = "1.0-beta3"
-
-projects[commerce_product_bundle][subdir] = "contrib"
-projects[commerce_product_bundle][version] = "1.0-alpha6"
 
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
@@ -180,14 +165,8 @@ projects[media][version] = "1.2"
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
 
-projects[nodequeue][subdir] = "contrib"
-projects[nodequeue][version] = "2.0-beta1"
-
 projects[omega_tools][subdir] = contrib
 projects[omega_tools][version] = "3.0-rc4"
-
-projects[page_title][subdir] = "contrib"
-projects[page_title][version] = "2.5"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
@@ -219,17 +198,11 @@ projects[tabtamer][version] = "1.1"
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.1"
 
-projects[site_verify][subdir] = "contrib"
-projects[site_verify][version] = "1.0"
-
 projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.4"
-
-projects[uniform][subdir] = "contrib"
-projects[uniform][version] = "1.10"
 
 projects[variable][subdir] = "contrib"
 projects[variable][version] = "2.1"
@@ -255,12 +228,10 @@ projects[wysiwyg_filter][version] = "1.6-rc2"
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-rc1"
 
-
 ; Themes
 ; --------
 
 projects[omega][version] = 3.1
- 
   
 ; Libraries
 ; ---------
@@ -270,32 +241,22 @@ libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEd
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
-libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "git://github.com/jackmoore/colorbox.git"
-libraries[colorbox][directory_name] = "colorbox"
-libraries[colorbox][type] = "library"
-
 libraries[jquery.cycle][download][type] = "git"
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
-libraries[jquery.jcarousel][download][type] = "file"
-libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
-libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
-libraries[jquery.jcarousel][type] = "library"
-
-libraries[uniform][download][type] = "git"
-libraries[uniform][download][url] = "https://github.com/pixelmatrix/uniform.git"
-libraries[uniform][directory_name] = "uniform"
-libraries[uniform][type] = "library"
+libraries[jquery.imagesloaded][download][type] = "git"
+libraries[jquery.imagesloaded][download][url] = "git://github.com/desandro/imagesloaded.git"
+libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
+libraries[jquery.imagesloaded][type] = "library"
 
 libraries[json2][download][type] = "git"
 libraries[json2][download][url] = "git://github.com/douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
-libraries[jquery.imagesloaded][download][type] = "git"
-libraries[jquery.imagesloaded][download][url] = "git://github.com/desandro/imagesloaded.git"
-libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
-libraries[jquery.imagesloaded][type] = "library"
+libraries[jquery.jcarousel][download][type] = "file"
+libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
+libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
+libraries[jquery.jcarousel][type] = "library"
