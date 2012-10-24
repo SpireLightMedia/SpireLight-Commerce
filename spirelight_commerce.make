@@ -290,11 +290,6 @@ libraries[uniform][download][url] = "https://github.com/pixelmatrix/uniform.git"
 libraries[uniform][directory_name] = "uniform"
 libraries[uniform][type] = "library"
 
-libraries[profiler][download][type] = "file"
-libraries[profiler][download][url] = "http://ftp.drupal.org/files/projects/profiler-7.x-2.0-beta1.tar.gz"
-libraries[profiler][directory_name] = "profiler"
-libraries[profiler][type] = "library"
-
 libraries[json2][download][type] = "git"
 libraries[json2][download][url] = "git://github.com/douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
