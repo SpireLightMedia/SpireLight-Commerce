@@ -198,6 +198,9 @@ projects[tabtamer][version] = "1.1"
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.x-dev"
 
+projects[strongarm][subdir] = "contrib"
+projects[strongarm][version] = "2.0"
+
 projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
