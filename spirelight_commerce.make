@@ -39,6 +39,9 @@ projects[commerce_checkout_login][version] = "1.x-dev"
 projects[commerce_checkout_progress][subdir] = "contrib"
 projects[commerce_checkout_progress][version] = "1.2"
 
+projects[commerce_checkout_redirect][subdir] = "contrib"
+projects[commerce_checkout_redirect][version] = "1.x-dev"
+
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][version] = "1.0-beta6"
 
