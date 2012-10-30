@@ -154,13 +154,13 @@ projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "2.6"
+projects[mailchimp][version] = "2.7"
 
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-beta1"
+projects[metatag][version] = "1.0-beta2"
 
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
