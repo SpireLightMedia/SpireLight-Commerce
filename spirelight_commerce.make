@@ -44,6 +44,8 @@ projects[commerce_checkout_progress][version] = "1.2"
 
 projects[commerce_checkout_redirect][subdir] = "contrib"
 projects[commerce_checkout_redirect][version] = "1.x-dev"
+projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1275330-commerce_checkout_redirect-user_register.patch"
+projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1677106-commerce_checkout_redirect-user_pass-2.patch"
 
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][version] = "1.0-beta6"
