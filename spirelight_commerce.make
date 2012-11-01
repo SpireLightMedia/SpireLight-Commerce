@@ -21,6 +21,9 @@ projects[advanced_help][version] = "1.0"
 projects[better_formats][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 
+projects[botcha][subdir] = "contrib"
+projects[botcha][version] = "1.1"
+
 projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.0"
 
