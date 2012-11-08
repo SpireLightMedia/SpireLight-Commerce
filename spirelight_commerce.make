@@ -240,6 +240,9 @@ projects[webform][version] = "3.18"
 projects[wysiwyg_filter][subdir] = "contrib"
 projects[wysiwyg_filter][version] = "1.6-rc2"
 
+projects[wysiwyg][subdir] = "contrib"
+projects[wysiwyg][version] = "2.2"
+
 projects[xmlsitemap][subdir] = "contrib"
 projects[xmlsitemap][version] = "2.0-rc1"
 
