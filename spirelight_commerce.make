@@ -183,6 +183,9 @@ projects[omega_tools][version] = "3.0-rc4"
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
 
+projects[print][subdir] = "contrib"
+projects[print][version] = "1.2"
+
 projects[privatemsg][subdir] = "contrib"
 projects[privatemsg][version] = "1.3"
 
