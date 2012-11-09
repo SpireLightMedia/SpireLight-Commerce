@@ -1,7 +1,7 @@
-diff --git a/commerce_paypal/modules/wps/commerce_paypal_wps.module b/commerce_paypal/modules/wps/commerce_paypal_wps.module
+diff --git commerce_paypal/modules/wps/commerce_paypal_wps.module commerce_paypal/modules/wps/commerce_paypal_wps.module
 index 76d703f..3731334 100644
---- a/commerce_paypal/modules/wps/commerce_paypal_wps.module
-+++ b/commerce_paypal/modules/wps/commerce_paypal_wps.module
+--- commerce_paypal/modules/wps/commerce_paypal_wps.module
++++ commerce_paypal/modules/wps/commerce_paypal_wps.module
 @@ -13,7 +13,7 @@ function commerce_paypal_wps_commerce_payment_method_info() {
    $payment_methods = array();
  
@@ -11,5 +11,3 @@ index 76d703f..3731334 100644
    $display_title .= '<div class="commerce-paypal-icons"><span class="label">' . t('Includes:') . '</span>' . implode(' ', $icons) . '</div>';
  
    $payment_methods['paypal_wps'] = array(
--- 
-
