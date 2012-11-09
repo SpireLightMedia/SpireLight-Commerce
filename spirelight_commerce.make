@@ -36,6 +36,9 @@ projects[commerce][version] = "1.4"
 projects[commerce_addressbook][subdir] = "contrib"
 projects[commerce_addressbook][version] = "2.0-rc3"
 
+projects[commerce_backoffice][subdir] = "contrib"
+projects[commerce_backoffice][version] = 1.0-rc1
+
 projects[commerce_checkout_login][subdir] = "contrib"
 projects[commerce_checkout_login][version] = "1.x-dev"
 
