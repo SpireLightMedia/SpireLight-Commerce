@@ -22,7 +22,7 @@ projects[better_formats][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 
 projects[botcha][subdir] = "contrib"
-projects[botcha][version] = "1.1"
+projects[botcha][version] = "1.3"
 
 projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.0"
@@ -34,7 +34,7 @@ projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.4"
 
 projects[commerce_addressbook][subdir] = "contrib"
-projects[commerce_addressbook][version] = "2.0-rc2"
+projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_checkout_login][subdir] = "contrib"
 projects[commerce_checkout_login][version] = "1.x-dev"
@@ -136,7 +136,7 @@ projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
 
 projects[google_analytics][subdir] = contrib
-projects[google_analytics][version] = "1.2"
+projects[google_analytics][version] = "1.3"
 
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
