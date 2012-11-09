@@ -38,7 +38,7 @@ projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
-projects[commerce_add_to_cart_confirmation][patch][] = "http://drupal.org/files/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch"
+projects[commerce_add_to_cart_confirmation][patch][1834398] = "http://drupal.org/files/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch"
 
 projects[commerce_backoffice][subdir] = "contrib"
 projects[commerce_backoffice][version] = 1.0-rc1
@@ -51,8 +51,8 @@ projects[commerce_checkout_progress][version] = "1.2"
 
 projects[commerce_checkout_redirect][subdir] = "contrib"
 projects[commerce_checkout_redirect][version] = "1.x-dev"
-projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1275330-commerce_checkout_redirect-user_register.patch"
-projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1677106-commerce_checkout_redirect-user_pass-2.patch"
+projects[commerce_checkout_redirect][patch][1275330] = "http://drupal.org/files/1275330-commerce_checkout_redirect-user_register.patch"
+projects[commerce_checkout_redirect][patch][1677106] = "http://drupal.org/files/1677106-commerce_checkout_redirect-user_pass-2.patch"
 
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][version] = "1.0-beta6"
@@ -71,7 +71,7 @@ projects[commerce_extra_price_formatters][subdir] = "contrib"
 
 projects[commerce_features][version] = 1.0-rc1
 projects[commerce_features][subdir] = "contrib"
-projects[commerce_features][patch][] = "http://drupal.org/files/1402762_export_flat_rate_commerce_features-6.patch"
+projects[commerce_features][patch][1402762] = "http://drupal.org/files/1402762_export_flat_rate_commerce_features-6.patch"
 
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
@@ -88,6 +88,7 @@ projects[commerce_invoice][version] = "1.x-dev"
 projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
 projects[commerce_paypal][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_paypal-changed-paypal-message.patch"
+
 
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
@@ -272,8 +273,6 @@ projects[xmlsitemap][version] = "2.0-rc1"
 ; Themes
 ; --------
 
-projects[omega][version] = 3.1
-projects[shiny][version] = 1.0-rc2
   
 ; Libraries
 ; ---------
