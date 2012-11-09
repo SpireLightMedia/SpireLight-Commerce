@@ -59,6 +59,9 @@ projects[commerce_coupon_pct][version] = "1.x-dev"
 projects[commerce_email][subdir] = "contrib"
 projects[commerce_email][version] = "2.x-dev"
 
+projects[commerce_extra_price_formatters][version] = 1.1
+projects[commerce_extra_price_formatters][subdir] = "contrib"
+
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
 
