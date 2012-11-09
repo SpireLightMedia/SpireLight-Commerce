@@ -38,7 +38,7 @@ projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
-projects[commerce_add_to_cart_confirmation][patch][] = "http://drupal.org/files/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch"
+projects[commerce_add_to_cart_confirmation][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch.txt"
 
 projects[commerce_backoffice][subdir] = "contrib"
 projects[commerce_backoffice][version] = 1.0-rc1
@@ -71,7 +71,7 @@ projects[commerce_extra_price_formatters][subdir] = "contrib"
 
 projects[commerce_features][version] = 1.0-rc1
 projects[commerce_features][subdir] = "contrib"
-projects[commerce_features][patch][] = "http://drupal.org/files/1402762_export_flat_rate_commerce_features-6.patch"
+projects[commerce_features][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1402762_export_flat_rate_commerce_features-6.patch.txt"
 
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
