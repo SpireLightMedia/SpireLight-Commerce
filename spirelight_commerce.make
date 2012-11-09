@@ -62,6 +62,10 @@ projects[commerce_email][version] = "2.x-dev"
 projects[commerce_extra_price_formatters][version] = 1.1
 projects[commerce_extra_price_formatters][subdir] = "contrib"
 
+projects[commerce_features][version] = 1.0-rc1
+projects[commerce_features][subdir] = "contrib"
+projects[commerce_features][patch][] = "http://drupal.org/files/1402762_export_flat_rate_commerce_features-6.patch"
+
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
 
