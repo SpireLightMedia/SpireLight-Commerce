@@ -38,9 +38,6 @@ projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
-projects[commerce_add_to_cart_confirmation][download][type] = git
-projects[commerce_add_to_cart_confirmation][download][revision] = e8455e0
-projects[commerce_add_to_cart_confirmation][download][branch] = 7.x-1.x
 projects[commerce_add_to_cart_confirmation][patch][] = "http://drupal.org/files/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch"
 
 projects[commerce_backoffice][subdir] = "contrib"
