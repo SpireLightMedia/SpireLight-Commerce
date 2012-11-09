@@ -273,6 +273,7 @@ projects[xmlsitemap][version] = "2.0-rc1"
 ; --------
 
 projects[omega][version] = 3.1
+projects[shiny][version] = 1.0-rc2
   
 ; Libraries
 ; ---------
