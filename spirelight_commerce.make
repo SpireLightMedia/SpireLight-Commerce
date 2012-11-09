@@ -158,6 +158,9 @@ projects[google_analytics][version] = "1.3"
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
 
+projects[image_delta_formatter][version] = 1.x-dev
+projects[image_delta_formatter][subdir] = "contrib"
+
 projects[imagefield_focus][subdir] = "contrib"
 projects[imagefield_focus][version] = "1.0"
 
