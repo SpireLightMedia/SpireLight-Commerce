@@ -88,7 +88,6 @@ projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
 projects[commerce_paypal][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_paypal-changed-paypal-message.patch"
 
-
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
 
@@ -144,7 +143,7 @@ projects[field_permissions][subdir] = "contrib"
 projects[field_permissions][version] = "1.0-beta2"
 
 projects[field_slideshow][subdir] = "contrib"
-projects[field_slideshow][version] = "1.7"
+projects[field_slideshow][version] = "1.8"
 
 projects[fontyourface][subdir] = "contrib"
 projects[fontyourface][version] = "2.5"
@@ -165,7 +164,7 @@ projects[imagefield_focus][subdir] = "contrib"
 projects[imagefield_focus][version] = "1.0"
 
 projects[imce][subdir] = "contrib"
-projects[imce][version] = "1.5"
+projects[imce][version] = "1.6"
 
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
