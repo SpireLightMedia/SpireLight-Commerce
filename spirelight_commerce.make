@@ -88,6 +88,9 @@ projects[commerce_paypal][subdir] = "contrib"
 projects[commerce_paypal][version] = "1.0-rc1"
 projects[commerce_paypal][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_paypal-changed-paypal-message.patch"
 
+projects[commerce_saleprice][subdir] = "contrib"
+projects[commerce_saleprice][version] = "1.0-beta4"
+
 projects[commerce_shipping][subdir] = "contrib"
 projects[commerce_shipping][version] = "2.x-dev"
 
