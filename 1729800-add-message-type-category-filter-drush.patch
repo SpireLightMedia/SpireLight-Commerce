@@ -1,0 +1,69 @@
+diff --git a/includes/views/handlers/message_handler_filter_message_type_category.inc b/includes/views/handlers/message_handler_filter_message_type_category.inc
+new file mode 100644
+index 0000000..8ed86a5
+--- /dev/null
++++ b/includes/views/handlers/message_handler_filter_message_type_category.inc
+@@ -0,0 +1,31 @@
++<?php
++
++class message_handler_filter_message_type_category extends views_handler_filter_in_operator {
++  function get_value_options() {
++    if (!isset($this->value_options)) {
++      $this->value_title = t('Message type category');
++      $options = array();
++      $options['message_type'] = t('Default message type category');
++      foreach (message_type_category_load() as $message_category) {
++        $options[$message_category->category] = !empty($message_category->description) ? $message_category->description : $message_type->category;
++      }
++      $this->value_options = $options;
++    }
++  }
++
++  function query() {
++    // Post-process the value before the query.
++    if (empty($this->value)) {
++      return;
++    }
++
++    $values = array();
++    foreach (message_type_load() as $message_type) {
++      if (isset($this->value[$message_type->category])) {
++        $values[] = $message_type->name;
++      }
++    }
++    $this->value = $values;
++    return parent::query();
++  }
++}
+diff --git a/includes/views/message.views.inc b/includes/views/message.views.inc
+index f30ab49..1f14d86 100644
+--- a/includes/views/message.views.inc
++++ b/includes/views/message.views.inc
+@@ -23,6 +23,14 @@ class MessageViewsController extends EntityDefaultViewsController {
+     );
+ 
+     $data['message']['type']['filter']['handler'] = 'message_handler_filter_message_type';
++    $data['message']['type_category'] = array(
++      'title' => 'Message category',
++      'help' => 'Filter messages by message type category.',
++      'filter' => array(
++        'handler' => 'message_handler_filter_message_type_category',
++        'real field' => 'type',
++      )
++    );
+ 
+     return $data;
+   }
+diff --git a/message.info b/message.info
+index 03f2703..3336a35 100644
+--- a/message.info
++++ b/message.info
+@@ -20,7 +20,7 @@ files[] = message.test
+ files[] = includes/views/message.views.inc
+ files[] = includes/views/handlers/message_handler_field_message_render.inc
+ files[] = includes/views/handlers/message_handler_filter_message_type.inc
+-
++files[] = includes/views/handlers/message_handler_filter_message_type_category.inc
+ 
+ ; Information added by drupal.org packaging script on 2012-06-17
+ version = "7.x-1.4"

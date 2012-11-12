@@ -70,7 +70,7 @@ projects[commerce_extra_price_formatters][subdir] = "contrib"
 
 projects[commerce_features][version] = 1.0-rc1
 projects[commerce_features][subdir] = "contrib"
-projects[commerce_features][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1402762_export_flat_rate_commerce_features-6.patch.txt"
+projects[commerce_features][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1402762_export_flat_rate_commerce_features-6.patch"
 
 projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
@@ -129,6 +129,9 @@ projects[entityreference_prepopulate][version] = "1.1"
 
 projects[entityreference_view_widget][subdir] = "contrib"
 projects[entityreference_view_widget][version] = "1.0-alpha2"
+
+projects[eva][version] = 1.2
+projects[eva][subdir] = "contrib"
 
 projects[extlink][subdir] = "contrib"
 projects[extlink][version] = "1.12"
@@ -196,6 +199,13 @@ projects[metatag][version] = "1.0-beta2"
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
 
+projects[message][version] = 1.5
+projects[message][subdir] = "contrib"
+projects[message][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1729800-add-message-type-category-filter-drush.patch"
+
+projects[message_notify][version] = 2.2
+projects[message_notify][subdir] = "contrib"
+
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
 
@@ -255,6 +265,9 @@ projects[views][version] = "3.5"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.0"
+
+projects[views_megarow][version] = 1.x-dev
+projects[views_megarow][subdir] = "contrib"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.0"
