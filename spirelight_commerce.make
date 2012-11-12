@@ -38,7 +38,6 @@ projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
-projects[commerce_add_to_cart_confirmation][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_add_to_cart_confirmation-remove-kickstart-css-1834398-1.patch.txt"
 
 projects[commerce_backoffice][subdir] = "contrib"
 projects[commerce_backoffice][version] = 1.0-rc1
