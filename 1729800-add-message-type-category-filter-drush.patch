@@ -1,8 +1,8 @@
-diff --git a/includes/views/handlers/message_handler_filter_message_type_category.inc b/includes/views/handlers/message_handler_filter_message_type_category.inc
+diff --git includes/views/handlers/message_handler_filter_message_type_category.inc includes/views/handlers/message_handler_filter_message_type_category.inc
 new file mode 100644
 index 0000000..8ed86a5
 --- /dev/null
-+++ b/includes/views/handlers/message_handler_filter_message_type_category.inc
++++ includes/views/handlers/message_handler_filter_message_type_category.inc
 @@ -0,0 +1,31 @@
 +<?php
 +
@@ -35,10 +35,10 @@ index 0000000..8ed86a5
 +    return parent::query();
 +  }
 +}
-diff --git a/includes/views/message.views.inc b/includes/views/message.views.inc
+diff --git includes/views/message.views.inc includes/views/message.views.inc
 index f30ab49..1f14d86 100644
---- a/includes/views/message.views.inc
-+++ b/includes/views/message.views.inc
+--- includes/views/message.views.inc
++++ includes/views/message.views.inc
 @@ -23,6 +23,14 @@ class MessageViewsController extends EntityDefaultViewsController {
      );
  
@@ -54,10 +54,10 @@ index f30ab49..1f14d86 100644
  
      return $data;
    }
-diff --git a/message.info b/message.info
+diff --git message.info message.info
 index 03f2703..3336a35 100644
---- a/message.info
-+++ b/message.info
+--- message.info
++++ message.info
 @@ -20,7 +20,7 @@ files[] = message.test
  files[] = includes/views/message.views.inc
  files[] = includes/views/handlers/message_handler_field_message_render.inc
