@@ -2,8 +2,7 @@ diff --git css/commerce_add_to_cart_confirmation.css css/commerce_add_to_cart_co
 index bf11f56..a73bafc 100644
 --- css/commerce_add_to_cart_confirmation.css
 +++ css/commerce_add_to_cart_confirmation.css
-@@ -1,7 +1,7 @@
- /**
+@@ -1,7 +1,7 @@ /**
  * Add to cart popin.
  */
 -div.commerce_kickstart_add_to_cart_overlay {
