@@ -21,11 +21,11 @@ projects[advanced_help][version] = "1.0"
 projects[better_formats][subdir] = "contrib"
 projects[better_formats][version] = "1.0-beta1"
 
-projects[botcha][subdir] = "contrib"
-projects[botcha][version] = "1.3"
-
 projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.0"
+
+projects[captcha][subdir] = "contrib"
+projects[captcha][version] = "1.0-beta2"
 
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.9"
@@ -162,6 +162,9 @@ projects[google_analytics][version] = "1.3"
 
 projects[htmlmail][subdir] = "contrib"
 projects[htmlmail][version] = "2.65"
+
+projects[image_captcha_refresh][subdir] = "contrib"
+projects[image_captcha_refresh][version] = "1.5"
 
 projects[image_delta_formatter][version] = 1.x-dev
 projects[image_delta_formatter][subdir] = "contrib"
