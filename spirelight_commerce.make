@@ -40,7 +40,7 @@ projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
 
 projects[commerce_backoffice][subdir] = "contrib"
-projects[commerce_backoffice][version] = 1.0-rc1
+projects[commerce_backoffice][version] = 1.x-dev
 
 projects[commerce_checkout_login][subdir] = "contrib"
 projects[commerce_checkout_login][version] = "1.x-dev"
