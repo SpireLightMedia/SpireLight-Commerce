@@ -202,7 +202,7 @@ projects[metatag][version] = "1.0-beta2"
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
 
-projects[message][version] = 1.5
+projects[message][version] = 1.6
 projects[message][subdir] = "contrib"
 projects[message][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1729800-add-message-type-category-filter-drush.patch"
 
@@ -247,6 +247,9 @@ projects[tabtamer][version] = "1.1"
 
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.x-dev"
+
+projects[smtp][subdir] = "contrib"
+projects[smtp][version] = "1.0-beta2"
 
 projects[strongarm][subdir] = "contrib"
 projects[strongarm][version] = "2.0"
