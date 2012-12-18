@@ -62,6 +62,9 @@ projects[commerce_coupon_fixed_amount][version] = "1.x-dev"
 projects[commerce_coupon_pct][subdir] = "contrib"
 projects[commerce_coupon_pct][version] = "1.x-dev"
 
+projects[commerce_discount][subdir] = "contrib"
+projects[commerce_discount][version] = "1.x-dev"
+
 projects[commerce_email][subdir] = "contrib"
 projects[commerce_email][version] = "2.x-dev"
 
