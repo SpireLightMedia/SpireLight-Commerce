@@ -28,7 +28,7 @@ projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.0-beta2"
 
 projects[ckeditor][subdir] = "contrib"
-projects[ckeditor][version] = "1.9"
+projects[ckeditor][version] = "1.12"
 
 projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.4"
@@ -37,10 +37,10 @@ projects[commerce_addressbook][subdir] = "contrib"
 projects[commerce_addressbook][version] = "2.0-rc3"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
-projects[commerce_add_to_cart_confirmation][version] = 1.x-dev
+projects[commerce_add_to_cart_confirmation][version] = 1.0-rc1
 
 projects[commerce_backoffice][subdir] = "contrib"
-projects[commerce_backoffice][version] = 1.x-dev
+projects[commerce_backoffice][version] = 1.0
 
 projects[commerce_checkout_login][subdir] = "contrib"
 projects[commerce_checkout_login][version] = "1.x-dev"
@@ -49,9 +49,7 @@ projects[commerce_checkout_progress][subdir] = "contrib"
 projects[commerce_checkout_progress][version] = "1.2"
 
 projects[commerce_checkout_redirect][subdir] = "contrib"
-projects[commerce_checkout_redirect][version] = "1.x-dev"
-projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1275330-commerce_checkout_redirect-user_register.patch"
-projects[commerce_checkout_redirect][patch][] = "http://drupal.org/files/1677106-commerce_checkout_redirect-user_pass-2.patch"
+projects[commerce_checkout_redirect][version] = 1.0-beta1
 
 projects[commerce_coupon][subdir] = "contrib"
 projects[commerce_coupon][version] = "1.0-beta6"
@@ -79,23 +77,26 @@ projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
 
 projects[commerce_flat_rate][subdir] = "contrib"
-projects[commerce_flat_rate][version] = "1.0-beta1"
+projects[commerce_flat_rate][version] = "1.0-beta2"
 
 projects[commerce_google_analytics][subdir] = "contrib"
-projects[commerce_google_analytics][version] = "1.0-rc2"
+projects[commerce_google_analytics][version] = "1.0-rc3"
 
 projects[commerce_invoice][subdir] = "contrib"
 projects[commerce_invoice][version] = "1.x-dev"
 
+projects[commerce_message][subdir] = "contrib"
+projects[commerce_message][version] = 1.0-beta1
+
 projects[commerce_paypal][subdir] = "contrib"
-projects[commerce_paypal][version] = "1.0-rc1"
+projects[commerce_paypal][version] = "1.0"
 projects[commerce_paypal][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_paypal-changed-paypal-message.patch"
 
 projects[commerce_saleprice][subdir] = "contrib"
 projects[commerce_saleprice][version] = "1.0-beta4"
 
 projects[commerce_shipping][subdir] = "contrib"
-projects[commerce_shipping][version] = "2.x-dev"
+projects[commerce_shipping][version] = 2.0
 
 projects[commerce_stock][subdir] = "contrib"
 projects[commerce_stock][version] = "2.0-alpha3"
@@ -122,10 +123,10 @@ projects[echo][subdir] = "contrib"
 projects[echo][version] = "1.9"
 
 projects[entity][subdir] = "contrib"
-projects[entity][version] = "1.0-rc3"
+projects[entity][version] = "1.0"
 
 projects[entityreference][subdir] = "contrib"
-projects[entityreference][version] = "1.0-rc5"
+projects[entityreference][version] = "1.0"
 
 projects[entityreference_prepopulate][subdir] = "contrib"
 projects[entityreference_prepopulate][version] = "1.1"
@@ -155,7 +156,7 @@ projects[field_slideshow][subdir] = "contrib"
 projects[field_slideshow][version] = "1.8"
 
 projects[fontyourface][subdir] = "contrib"
-projects[fontyourface][version] = "2.5"
+projects[fontyourface][version] = "2.6"
 
 projects[globalredirect][subdir] = "contrib"
 projects[globalredirect][version] = "1.5"
@@ -182,7 +183,7 @@ projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
 projects[inline_entity_form][subdir] = "contrib"
-projects[inline_entity_form][version] = "1.0-rc1"
+projects[inline_entity_form][version] = "1.0"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.0"
@@ -200,17 +201,16 @@ projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
 
 projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-beta2"
+projects[metatag][version] = "1.0-beta4"
 
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
 
-projects[message][version] = 1.6
 projects[message][subdir] = "contrib"
-projects[message][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/1729800-add-message-type-category-filter-drush.patch"
+projects[message][version] = 1.7
 
-projects[message_notify][version] = 2.2
 projects[message_notify][subdir] = "contrib"
+projects[message_notify][version] = 2.3
 
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
@@ -273,9 +273,9 @@ projects[views][subdir] = "contrib"
 projects[views][version] = "3.5"
 
 projects[views_bulk_operations][subdir] = "contrib"
-projects[views_bulk_operations][version] = "3.0"
+projects[views_bulk_operations][version] = "3.1"
 
-projects[views_megarow][version] = 1.x-dev
+projects[views_megarow][version] = 1.0
 projects[views_megarow][subdir] = "contrib"
 
 projects[views_slideshow][subdir] = "contrib"
@@ -291,19 +291,19 @@ projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
 
 projects[xmlsitemap][subdir] = "contrib"
-projects[xmlsitemap][version] = "2.0-rc1"
+projects[xmlsitemap][version] = "2.0-rc2"
 
 ; Themes
 ; --------
 
 projects[omega][version] = 3.1
-projects[shiny][version] = 1.0-rc2
+projects[shiny][version] = 1.0-rc5
 
 ; Libraries
 ; ---------
 
 libraries[ckeditor][download][type] = "file"
-libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.5/ckeditor_3.6.5.tar.gz"
+libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%204.0/ckeditor_4.0_standard.tar.gz"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
