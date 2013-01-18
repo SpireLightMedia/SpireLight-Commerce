@@ -195,7 +195,7 @@ projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "2.7"
+projects[mailchimp][version] = "2.9"
 
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
@@ -264,7 +264,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.4"
 
 projects[variable][subdir] = "contrib"
-projects[variable][version] = "2.1"
+projects[variable][version] = "2.2"
 
 projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
@@ -326,3 +326,8 @@ libraries[jquery.jcarousel][download][type] = "file"
 libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
 libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
 libraries[jquery.jcarousel][type] = "library"
+
+libraries[mailchimp][download][type] = "file"
+libraries[mailchimp][download][url] = "http://apidocs.mailchimp.com/api/downloads/mailchimp-api-class.zip"
+libraries[mailchimp][directory_name] = "mailchimp"
+libraries[mailchimp][type] = "library"
