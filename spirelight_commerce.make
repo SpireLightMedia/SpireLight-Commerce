@@ -129,7 +129,7 @@ projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.0"
 
 projects[entityreference_prepopulate][subdir] = "contrib"
-projects[entityreference_prepopulate][version] = "1.1"
+projects[entityreference_prepopulate][version] = "1.2"
 
 projects[entityreference_view_widget][subdir] = "contrib"
 projects[entityreference_view_widget][version] = "1.0-alpha2"
@@ -200,9 +200,6 @@ projects[mailchimp][version] = "2.9"
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
 
-projects[metatag][subdir] = contrib
-projects[metatag][version] = "1.0-beta4"
-
 projects[media][subdir] = contrib
 projects[media][version] = "1.2"
 
@@ -211,6 +208,9 @@ projects[message][version] = 1.7
 
 projects[message_notify][subdir] = "contrib"
 projects[message_notify][version] = 2.3
+
+projects[metatag][subdir] = contrib
+projects[metatag][version] = "1.0-beta4"
 
 projects[nocurrent_pass][subdir] = "contrib"
 projects[nocurrent_pass][version] = "1.0"
