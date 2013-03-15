@@ -259,6 +259,9 @@ projects[search_api_sorts][version] = "1.4"
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.1"
 
+projects[site_verify][subdir] = "contrib"
+projects[site_verify][version] = "1.0"
+
 projects[smartcrop][subdir] = "contrib"
 projects[smartcrop][version] = "1.0-beta2"
 
