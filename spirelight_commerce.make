@@ -30,6 +30,9 @@ projects[captcha][version] = "1.0-beta2"
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.12"
 
+projects[colorbox][subdir] = contrib
+projects[colorbox][version] = "2.3"
+
 projects[commerce][subdir] = contrib
 projects[commerce][version] = "1.5"
 
@@ -327,6 +330,11 @@ libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
 libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
+
+libraries[colorbox][download][type] = "file"
+libraries[colorbox][download][url] = "http://www.jacklmoore.com/colorbox/colorbox.zip"
+libraries[colorbox][directory_name] = "colorbox"
+libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
 libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
