@@ -27,6 +27,9 @@ projects[boxes][version] = "1.1"
 projects[captcha][subdir] = "contrib"
 projects[captcha][version] = "1.0-beta2"
 
+projects[chosen][subdir] = "contrib"
+projects[chosen][version] = "1.0"
+
 projects[ckeditor][subdir] = "contrib"
 projects[ckeditor][version] = "1.12"
 
@@ -328,6 +331,11 @@ projects[shiny][version] = 1.0
 
 ; Libraries
 ; ---------
+
+libraries[chosen][download][type] = "git"
+libraries[chosen][download][url] = "git://github.com/harvesthq/chosen.git"
+libraries[chosen][directory_name] = "chosen"
+libraries[chosen][type] = "library"
 
 libraries[ckeditor][download][type] = "file"
 libraries[ckeditor][download][url] = "http://download.cksource.com/CKEditor/CKEditor/CKEditor%203.6.6/ckeditor_3.6.6.zip"
