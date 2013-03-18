@@ -150,6 +150,9 @@ projects[facetapi][patch][] = "http://drupal.org/files/1616518-7-show-active-ter
 projects[features][subdir] = "contrib"
 projects[features][version] = "2.0-beta1"
 
+projects[fences][subdir] = "contrib"
+projects[fences][version] = "1.0"
+
 projects[field_extractor][subdir] = "contrib"
 projects[field_extractor][version] = "1.3"
 
@@ -271,9 +274,6 @@ projects[smartcrop][version] = "1.0-beta2"
 projects[stringoverrides][subdir] = "contrib"
 projects[stringoverrides][version] = "1.8"
 
-projects[tabtamer][subdir] = "contrib"
-projects[tabtamer][version] = "1.1"
-
 projects[smtp][subdir] = "contrib"
 projects[smtp][version] = "1.0"
 
@@ -282,6 +282,9 @@ projects[strongarm][version] = "2.0"
 
 projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
+
+projects[title][subdir] = "contrib"
+projects[title][version] = "1.0-alpha5"
 
 projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
