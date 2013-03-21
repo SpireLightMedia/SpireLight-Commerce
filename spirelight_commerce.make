@@ -275,6 +275,9 @@ projects[site_verify][version] = "1.0"
 projects[smartcrop][subdir] = "contrib"
 projects[smartcrop][version] = "1.0-beta2"
 
+projects[spambot][subdir] = "contrib"
+projects[spambot][version] = "1.3"
+
 projects[stringoverrides][subdir] = "contrib"
 projects[stringoverrides][version] = "1.8"
 
