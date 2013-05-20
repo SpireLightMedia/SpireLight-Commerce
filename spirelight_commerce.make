@@ -71,7 +71,7 @@ projects[commerce_coupon_pct][version] = "1.0-beta7"
 
 projects[commerce_discount][subdir] = "contrib"
 projects[commerce_discount][version] = "1.x-dev"
-projects[commerce_discount][patch][] = "http://drupal.org/files/Fixed_Amount__Percentage_Fields_not_shown_when_adding%20a_discount-1875524-5.patch"
+projects[commerce_discount][patch][] = "http://drupal.org/files/Fixed_Amount__Percentage_Fields_not_shown_when_adding a_discount-1875524-5.patch"
 
 projects[commerce_email][subdir] = "contrib"
 projects[commerce_email][version] = "2.x-dev"
