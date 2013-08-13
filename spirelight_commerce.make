@@ -28,7 +28,7 @@ projects[boxes][subdir] = "contrib"
 projects[boxes][version] = "1.1"
 
 projects[captcha][subdir] = "contrib"
-projects[captcha][version] = "1.0-beta2"
+projects[captcha][version] = "1.0"
 
 projects[chosen][subdir] = "contrib"
 projects[chosen][version] = "2.0-alpha2"
@@ -40,16 +40,16 @@ projects[colorbox][subdir] = contrib
 projects[colorbox][version] = "2.4"
 
 projects[commerce][subdir] = contrib
-projects[commerce][version] = "1.7"
+projects[commerce][version] = "1.8"
 
 projects[commerce_addressbook][subdir] = "contrib"
-projects[commerce_addressbook][version] = "2.0-rc6"
+projects[commerce_addressbook][version] = "2.0-rc7"
 
 projects[commerce_add_to_cart_confirmation][subdir] = "contrib"
 projects[commerce_add_to_cart_confirmation][version] = "1.0-rc2"
 
 projects[commerce_backoffice][subdir] = "contrib"
-projects[commerce_backoffice][version] = "1.2"
+projects[commerce_backoffice][version] = "1.3"
 
 projects[commerce_checkout_login][subdir] = "contrib"
 projects[commerce_checkout_login][version] = "1.x-dev"
@@ -98,20 +98,20 @@ projects[commerce_invoice][subdir] = "contrib"
 projects[commerce_invoice][version] = "1.0-alpha3"
 
 projects[commerce_message][subdir] = "contrib"
-projects[commerce_message][version] = 1.0-beta1
+projects[commerce_message][version] = "1.0-rc1"
 
 projects[commerce_paypal][subdir] = "contrib"
-projects[commerce_paypal][version] = "1.0"
+projects[commerce_paypal][version] = "2.0"
 projects[commerce_paypal][patch][] = "https://raw.github.com/SpireLightMedia/SpireLight-Commerce/master/commerce_paypal-changed-paypal-message.patch"
 
 projects[commerce_saleprice][subdir] = "contrib"
 projects[commerce_saleprice][version] = "1.0-beta4"
 
 projects[commerce_shipping][subdir] = "contrib"
-projects[commerce_shipping][version] = 2.0
+projects[commerce_shipping][version] = "2.0"
 
 projects[commerce_stock][subdir] = "contrib"
-projects[commerce_stock][version] = "2.0-alpha4"
+projects[commerce_stock][version] = "2.0-rc1"
 
 projects[commerce_vbo_views][subdir] = "contrib"
 projects[commerce_vbo_views][version] = "1.2"
@@ -150,14 +150,14 @@ projects[eva][subdir] = "contrib"
 projects[eva][version] = "1.2"
 
 projects[extlink][subdir] = "contrib"
-projects[extlink][version] = "1.12"
+projects[extlink][version] = "1.13"
 
 projects[facetapi][subdir] = "contrib"
 projects[facetapi][version] = "1.3"
 projects[facetapi][patch][] = "http://drupal.org/files/1616518-7-show-active-term.patch"
 
 projects[features][subdir] = "contrib"
-projects[features][version] = "2.0-beta2"
+projects[features][version] = "2.0-rc2"
 
 projects[fences][subdir] = "contrib"
 projects[fences][version] = "1.0"
@@ -202,7 +202,7 @@ projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
 projects[inline_entity_form][subdir] = "contrib"
-projects[inline_entity_form][version] = "1.2"
+projects[inline_entity_form][version] = "1.3"
 
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.1"
@@ -214,7 +214,7 @@ projects[logintoboggan][subdir] = "contrib"
 projects[logintoboggan][version] = "1.3"
 
 projects[mailchimp][subdir] = contrib
-projects[mailchimp][version] = "2.10"
+projects[mailchimp][version] = "2.12"
 
 projects[mailsystem][subdir] = "contrib"
 projects[mailsystem][version] = "2.34"
@@ -223,7 +223,7 @@ projects[media][subdir] = contrib
 projects[media][version] = "1.3"
 
 projects[message][subdir] = "contrib"
-projects[message][version] = "1.8"
+projects[message][version] = "1.9"
 
 projects[message_notify][subdir] = "contrib"
 projects[message_notify][version] = "2.5"
@@ -244,7 +244,7 @@ projects[print][subdir] = "contrib"
 projects[print][version] = "1.2"
 
 projects[privatemsg][subdir] = "contrib"
-projects[privatemsg][version] = "1.3"
+projects[privatemsg][version] = "1.4"
 
 projects[quicktabs][subdir] = "contrib"
 projects[quicktabs][version] = "3.4"
@@ -259,10 +259,10 @@ projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.3"
 
 projects[search_api][subdir] = "contrib"
-projects[search_api][version] = "1.5"
+projects[search_api][version] = "1.7"
 
 projects[search_api_db][subdir] = "contrib"
-projects[search_api_db][version] = "1.0-beta4"
+projects[search_api_db][version] = "1.0-rc2"
 
 projects[search_api_ranges][subdir] = "contrib"
 projects[search_api_ranges][version] = "1.4"
@@ -271,7 +271,7 @@ projects[search_api_sorts][subdir] = "contrib"
 projects[search_api_sorts][version] = "1.4"
 
 projects[service_links][subdir] = "contrib"
-projects[service_links][version] = "2.1"
+projects[service_links][version] = "2.2"
 
 projects[site_verify][subdir] = "contrib"
 projects[site_verify][version] = "1.0"
@@ -301,7 +301,7 @@ projects[token][subdir] = "contrib"
 projects[token][version] = "1.5"
 
 projects[variable][subdir] = "contrib"
-projects[variable][version] = "2.2"
+projects[variable][version] = "2.3"
 
 projects[variable_email][subdir] = "contrib"
 projects[variable_email][version] = "1.0-alpha1"
@@ -313,13 +313,13 @@ projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.1"
 
 projects[views_megarow][subdir] = "contrib"
-projects[views_megarow][version] = "1.0"
+projects[views_megarow][version] = "1.1"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.0"
 
 projects[webform][subdir] = "contrib"
-projects[webform][version] = "3.18"
+projects[webform][version] = "3.19"
 
 projects[wysiwyg_filter][subdir] = "contrib"
 projects[wysiwyg_filter][version] = "1.6-rc2"
@@ -333,9 +333,9 @@ projects[xmlsitemap][version] = "2.0-rc2"
 ; Themes
 ; --------
 
-projects[omega][version] = 3.1
-projects[zen][version] = 5.1
-projects[shiny][version] = 1.1
+projects[omega][version] = "4.0-beta6"
+projects[zen][version] = "5.3"
+projects[shiny][version] = "1.3"
 
 ; Libraries
 ; ---------
