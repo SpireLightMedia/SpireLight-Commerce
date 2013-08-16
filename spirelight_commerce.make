@@ -332,7 +332,7 @@ projects[xmlsitemap][version] = "2.0-rc2"
 ; Themes
 ; --------
 
-projects[omega][version] = "4.0-beta6"
+projects[omega][version] = "3.1"
 projects[zen][version] = "5.3"
 projects[shiny][version] = "1.3"
 
