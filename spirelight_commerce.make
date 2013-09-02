@@ -257,6 +257,9 @@ projects[redirect][version] = "1.0-rc1"
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.3"
 
+projects[schema][subdir] = "contrib"
+projects[schema][version] = "1.0-rc1"
+
 projects[search_api][subdir] = "contrib"
 projects[search_api][version] = "1.7"
 
