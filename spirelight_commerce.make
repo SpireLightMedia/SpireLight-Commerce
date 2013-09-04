@@ -91,6 +91,9 @@ projects[commerce_fieldgroup_panes][version] = "1.0"
 projects[commerce_flat_rate][subdir] = "contrib"
 projects[commerce_flat_rate][version] = "1.0-beta2"
 
+projects[commerce_goodrelations][subdir] = "contrib"
+projects[commerce_goodrelations][version] = "1.0-alpha1"
+
 projects[commerce_google_analytics][subdir] = "contrib"
 projects[commerce_google_analytics][version] = "1.1"
 
@@ -257,8 +260,8 @@ projects[redirect][version] = "1.0-rc1"
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.3"
 
-projects[schema][subdir] = "contrib"
-projects[schema][version] = "1.0-rc1"
+projects[schemaorg][subdir] = "contrib"
+projects[schemaorg][version] = "1.0-beta3"
 
 projects[search_api][subdir] = "contrib"
 projects[search_api][version] = "1.7"
