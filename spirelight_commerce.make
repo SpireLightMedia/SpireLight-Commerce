@@ -286,6 +286,7 @@ projects[search_api_sorts][version] = "1.5"
 
 projects[service_links][subdir] = "contrib"
 projects[service_links][version] = "2.2"
+projects[service_links][patch][] = "https://www.drupal.org/files/drupal7-service_links-2.2-update_1.patch"
 
 projects[site_verify][subdir] = "contrib"
 projects[site_verify][version] = "1.0"
