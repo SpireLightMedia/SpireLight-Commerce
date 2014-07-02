@@ -206,6 +206,9 @@ projects[imce_wysiwyg][version] = "1.0"
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.5"
 
+projects[jquery_update][subdir] = "contrib"
+projects[jquery_update][version] = "2.3"
+
 projects[libraries][subdir] = "contrib"
 projects[libraries][version] = "2.2"
 
@@ -260,6 +263,9 @@ projects[redirect][version] = "1.0-rc1"
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.6"
 
+projects[rules_conditional][subdir] = "contrib"
+projects[rules_conditional][version] = "1.0-beta2"
+
 projects[schemaorg][subdir] = "contrib"
 projects[schemaorg][version] = "1.0-beta4"
 
@@ -299,6 +305,9 @@ projects[strongarm][version] = "2.0"
 projects[tabtamer][subdir] = "contrib"
 projects[tabtamer][version] = "1.1"
 
+projects[taxonomy_menu][subdir] = "contrib"
+projects[taxonomy_menu][version] = "1.4"
+
 projects[title][subdir] = "contrib"
 projects[title][version] = "1.0-alpha7"
 
@@ -319,6 +328,12 @@ projects[views_bulk_operations][version] = "3.2"
 
 projects[views_megarow][subdir] = "contrib"
 projects[views_megarow][version] = "1.2"
+
+projects[views_pdf][subdir] = "contrib"
+projects[views_pdf][version] = "1.3"
+
+projects[views_php][subdir] = "contrib"
+projects[views_php][version] = "1.0-alpha1"
 
 projects[views_slideshow][subdir] = "contrib"
 projects[views_slideshow][version] = "3.1"
