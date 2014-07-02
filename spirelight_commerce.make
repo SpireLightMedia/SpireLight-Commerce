@@ -335,6 +335,10 @@ projects[views_pdf][version] = "1.3"
 projects[views_php][subdir] = "contrib"
 projects[views_php][version] = "1.0-alpha1"
 
+projects[views_slideshow][subdir] = "contrib"
+projects[views_slideshow][version] = "3.1"
+projects[views_slideshow][patch][] = "https://www.drupal.org/files/issues/views_slideshow-rename_makefile-1330166-16.patch"
+
 projects[webform][subdir] = "contrib"
 projects[webform][version] = "3.20"
 
