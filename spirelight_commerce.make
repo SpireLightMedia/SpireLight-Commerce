@@ -376,7 +376,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
-libraries[jquery.cycle][download][url] = "https://raw.githubusercontent.com/malsup/cycle/master/jquery.cycle.all.js"
+libraries[jquery.cycle][download][url] = "git@github.com:malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
@@ -386,7 +386,7 @@ libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
 libraries[jquery.imagesloaded][type] = "library"
 
 libraries[json2][download][type] = "git"
-libraries[json2][download][url] = "https://raw.githubusercontent.com/douglascrockford/JSON-js/master/json2.js"
+libraries[json2][download][url] = "git@github.com:douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
