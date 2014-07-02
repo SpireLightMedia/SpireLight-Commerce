@@ -203,6 +203,9 @@ projects[imce][version] = "1.8"
 projects[imce_wysiwyg][subdir] = "contrib"
 projects[imce_wysiwyg][version] = "1.0"
 
+projects[inline_conditions][subdir] = "contrib"
+projects[inline_conditions][version] = "1.0-alpha3"
+
 projects[inline_entity_form][subdir] = "contrib"
 projects[inline_entity_form][version] = "1.5"
 
