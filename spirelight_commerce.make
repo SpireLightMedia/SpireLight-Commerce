@@ -406,3 +406,9 @@ libraries[mailchimp][download][type] = "file"
 libraries[mailchimp][download][url] = "https://bitbucket.org/mailchimp/mailchimp-api-php/get/2.0.4.zip"
 libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][type] = "library"
+
+libraries[dompdf][download][type] = "git"
+libraries[dompdf][download][url] = "git@github.com:dompdf/dompdf.git"
+libraries[dompdf][directory_name] = "dompdf"
+libraries[dompdf][type] = "library"
+
