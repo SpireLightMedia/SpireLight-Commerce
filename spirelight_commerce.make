@@ -89,7 +89,7 @@ projects[commerce_fieldgroup_panes][subdir] = "contrib"
 projects[commerce_fieldgroup_panes][version] = "1.0"
 
 projects[commerce_flat_rate][subdir] = "contrib"
-projects[commerce_flat_rate][version] = "1.0-beta2"
+projects[commerce_flat_rate][version] = "1.x-dev"
 
 projects[commerce_goodrelations][subdir] = "contrib"
 projects[commerce_goodrelations][version] = "1.0-alpha2"
