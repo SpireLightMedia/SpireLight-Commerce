@@ -139,6 +139,9 @@ projects[echo][version] = "1.9"
 projects[entity][subdir] = "contrib"
 projects[entity][version] = "1.5"
 
+projects[entitycache][subdir] = "contrib"
+projects[entitycache][version] = "1.2"
+
 projects[entityreference][subdir] = "contrib"
 projects[entityreference][version] = "1.1"
 
@@ -256,11 +259,17 @@ projects[privatemsg][version] = "1.4"
 projects[quicktabs][subdir] = "contrib"
 projects[quicktabs][version] = "3.6"
 
+projects[readonlymode][subdir] = "contrib"
+projects[readonlymode][version] = "1.2"
+
 projects[realname][subdir] = "contrib"
 projects[realname][version] = "1.2"
 
 projects[redirect][subdir] = "contrib"
 projects[redirect][version] = "1.0-rc1"
+
+projects[robotstxt][subdir] = "contrib"
+projects[robotstxt][version] = "1.2"
 
 projects[rules][subdir] = "contrib"
 projects[rules][version] = "2.7"
@@ -331,6 +340,9 @@ projects[views][version] = "3.8"
 
 projects[views_bulk_operations][subdir] = "contrib"
 projects[views_bulk_operations][version] = "3.2"
+
+projects[views_content_cache][subdir] = "contrib"
+projects[views_content_cache][version] = "3.0-alpha3"
 
 projects[views_megarow][subdir] = "contrib"
 projects[views_megarow][version] = "1.4"
