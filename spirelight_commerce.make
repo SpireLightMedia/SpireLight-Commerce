@@ -398,7 +398,7 @@ libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
 libraries[jquery.jcarousel][download][type] = "file"
-libraries[jquery.jcarousel][download][url] = "http://sorgalla.com/projects/download.php?jcarousel"
+libraries[jquery.jcarousel][download][url] = "git@github.com:jsor/jcarousel.git"
 libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
 libraries[jquery.jcarousel][type] = "library"
 
