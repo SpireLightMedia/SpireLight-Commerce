@@ -390,12 +390,12 @@ libraries[ckeditor][directory_name] = "ckeditor"
 libraries[ckeditor][type] = "library"
 
 libraries[colorbox][download][type] = "git"
-libraries[colorbox][download][url] = "git://github.com/jackmoore/colorbox.git"
+libraries[colorbox][download][url] = "https://github.com/jackmoore/colorbox.git"
 libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
-libraries[jquery.cycle][download][url] = "https://ithub.com:malsup/cycle.git"
+libraries[jquery.cycle][download][url] = "https://github.com:malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
