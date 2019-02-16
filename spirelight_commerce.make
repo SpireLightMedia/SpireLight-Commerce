@@ -395,12 +395,12 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
-libraries[jquery.cycle][download][url] = "https://github.com:malsup/cycle.git"
+libraries[jquery.cycle][download][url] = "https://github.com/malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
 libraries[jquery.imagesloaded][download][type] = "git"
-libraries[jquery.imagesloaded][download][url] = "git://github.com/desandro/imagesloaded.git"
+libraries[jquery.imagesloaded][download][url] = "https://github.com/desandro/imagesloaded.git"
 libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
 libraries[jquery.imagesloaded][type] = "library"
 
