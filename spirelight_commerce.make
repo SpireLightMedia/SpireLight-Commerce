@@ -405,12 +405,12 @@ libraries[jquery.imagesloaded][directory_name] = "jquery.imagesloaded"
 libraries[jquery.imagesloaded][type] = "library"
 
 libraries[json2][download][type] = "git"
-libraries[json2][download][url] = "git@github.com:douglascrockford/JSON-js.git"
+libraries[json2][download][url] = "https://github.com/douglascrockford/JSON-js.git"
 libraries[json2][directory_name] = "json2"
 libraries[json2][type] = "library"
 
 libraries[jquery.jcarousel][download][type] = "file"
-libraries[jquery.jcarousel][download][url] = "git@github.com:jsor/jcarousel.git"
+libraries[jquery.jcarousel][download][url] = "https://github.com:jsor/jcarousel.git"
 libraries[jquery.jcarousel][directory_name] = "jquery.jcarousel"
 libraries[jquery.jcarousel][type] = "library"
 
@@ -420,7 +420,7 @@ libraries[mailchimp][directory_name] = "mailchimp"
 libraries[mailchimp][type] = "library"
 
 libraries[dompdf][download][type] = "git"
-libraries[dompdf][download][url] = "git@github.com:dompdf/dompdf.git"
+libraries[dompdf][download][url] = "https://github.com/dompdf/dompdf.git"
 libraries[dompdf][directory_name] = "dompdf"
 libraries[dompdf][type] = "library"
 
