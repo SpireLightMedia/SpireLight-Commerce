@@ -380,7 +380,7 @@ projects[shiny][version] = "1.4"
 ; ---------
 
 libraries[chosen][download][type] = "git"
-libraries[chosen][download][url] = "git://github.com/harvesthq/chosen.git"
+libraries[chosen][download][url] = "https://github.com/harvesthq/chosen.git"
 libraries[chosen][directory_name] = "chosen"
 libraries[chosen][type] = "library"
 
@@ -395,7 +395,7 @@ libraries[colorbox][directory_name] = "colorbox"
 libraries[colorbox][type] = "library"
 
 libraries[jquery.cycle][download][type] = "git"
-libraries[jquery.cycle][download][url] = "git@github.com:malsup/cycle.git"
+libraries[jquery.cycle][download][url] = "https://ithub.com:malsup/cycle.git"
 libraries[jquery.cycle][directory_name] = "jquery.cycle"
 libraries[jquery.cycle][type] = "library"
 
